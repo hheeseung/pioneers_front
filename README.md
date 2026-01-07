@@ -37,7 +37,8 @@ https://github.com/user-attachments/assets/7309a363-621f-41a4-b661-27a60dad18c4
 
 ## 🔗 배포 링크
 
-https://fuve.vercel.app/
+ - https://fuve.vercel.app/
+ - 현재 창업 멤버 유형 테스트 서버는 내려간 상태입니다.
 
 ## 🛠 프론트엔드 개발 환경
 
